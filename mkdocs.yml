@@ -1,0 +1,8 @@
+site_name: taras-backstage-documentation-test
+site_description: Testing backstage documentation
+
+nav: 
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
